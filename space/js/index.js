@@ -34,3 +34,8 @@ load();
 function teste() {
   alert("Capital Code");
 }
+
+function teste2() {
+  alert("Teste 2");
+}
+
